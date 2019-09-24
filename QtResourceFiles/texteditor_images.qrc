@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix='images'>
+  <file alias='copy-image.svg'>copy.svg</file>
+  <file>cut.svg</file>
+  <file>paste.svg</file>
+  <file>undo.svg</file>
+  <file>redo.svg</file>
+  <file>search.svg</file>
+</qresource>
+</RCC>
